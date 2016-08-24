@@ -1,0 +1,200 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+1230
+</name>
+</assembly>
+<members>
+<member name="P:_1230.My.Resources.Resources.ResourceManager">
+	<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Culture">
+	<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._002">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._1043698123">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._1184830_661353623884538_1010134125_n">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._123321">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._1529798_10200502150356651_1649090428_o">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._1H0191937_3">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._201401162149236c72598c">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._201401162149236c72598c1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._201401162149236c72598c2">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._27294_545984785468951_1586444662_n">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._431052_1294976931153">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._436fc7dd27724456ed6ab445426af7f9">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._436fc7dd27724456ed6ab445426af7f91">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._61110_279491628902184_6384620863962669131_n">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._67025f08a35e1cdf31dea1ac803c2844">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources._8806_944112829001313_2847861726738816904_n">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.d1257205">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.DSC_0011">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.final1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.final2">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Five">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Four">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.gate">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.image1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.image11">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.image2">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.image21">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.images">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.KEY">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.KEY1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.left">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.NUMBER">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.One">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.opening_mp3_mp3">
+	<summary>
+  查詢類似 System.IO.MemoryStream 的類型 System.IO.UnmanagedMemoryStream 當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Six">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.theend">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Three">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.Two">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.white">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.white1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.white2">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.white3">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.下載">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:_1230.My.Resources.Resources.排放式流動廁所1">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="T:_1230.My.Resources.Resources">
+	<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member>
+</members>
+</doc>
